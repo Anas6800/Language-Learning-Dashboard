@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getAnalytics } from 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjFTWTiL34bfH0t7AjKQgVHUpegrQWdP0",
-  authDomain: "language-learning-dashboard.firebaseapp.com",
-  projectId: "language-learning-dashboard",
-  storageBucket: "language-learning-dashboard.firebasestorage.app",
-  messagingSenderId: "221257407258",
-  appId: "1:221257407258:web:c4926bc8d11fba03542aa3",
-  measurementId: "G-YW13FK7VHE"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
